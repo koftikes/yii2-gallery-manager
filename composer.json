@@ -13,7 +13,7 @@
             "name": "Konstantin Litvinov",
             "email": "koftikes@gmail.com",
             "homepage": "http://sbsweb.ru"
-        },
+        }
     ],
     "require": {
         "yiisoft/yii2-jui": "*",
