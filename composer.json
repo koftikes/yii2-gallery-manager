@@ -1,19 +1,19 @@
 {
-    "name": "zxbodya/yii2-gallery-manager",
-    "description": "Extension for yii, that allows to manage image galleries",
+    "name": "sbs/yii2-gallery-manager",
+    "description": "Extension for Yii2, that allows to manage image galleries.",
     "type": "yii2-extension",
-    "keywords": [
-        "yii2",
-        "extension",
-        "image",
-        "gallery"
-    ],
+    "keywords": ["yii2", "extension", "image", "gallery"],
     "license": "MIT",
     "authors": [
         {
             "name": "Bogdan Savluk",
             "email": "savluk.bogdan@gmail.com"
-        }
+        },
+        {
+            "name": "Konstantin Litvinov",
+            "email": "koftikes@gmail.com",
+            "homepage": "http://sbsweb.ru"
+        },
     ],
     "require": {
         "yiisoft/yii2-jui": "*",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zxbodya\\yii2\\galleryManager\\": ""
+            "sbs\\galleryManager\\": ""
         }
     }
 }

@@ -46,7 +46,7 @@ Add migration to create table for images:
 
 ```php
 class m150318_154933_gallery_ext
-    extends zxbodya\yii2\galleryManager\migrations\m140930_003227_gallery_manager
+    extends sbs\galleryManager\migrations\m140930_003227_gallery_manager
 {
 
 }
